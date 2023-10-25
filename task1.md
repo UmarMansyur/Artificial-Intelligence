@@ -33,3 +33,4 @@ Soal:
 9. Export hasilnya kedalam bentuk excel!
 10. Buatlah folder dengan nama kalian digithub dan push hasilnya kedalam folder tersebut!
 
+Wajib menggunakan pandas dan jupyter notebook!
