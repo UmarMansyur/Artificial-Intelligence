@@ -127,3 +127,4 @@ Langkah ketiga yang harus dilakukan adalah menentukan nilai korelasi. Berikut ad
 | 0.80 - 1.00 | Sangat kuat |
 
 
+Dalam AI, variabel bebas dan variabel terikat akan menjadi parameter penting untuk memprediksi variabel terikat dari variabel bebas tertentu. Algoritma regresi linear memberikan 
