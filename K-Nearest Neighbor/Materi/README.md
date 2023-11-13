@@ -6,13 +6,17 @@ Algoritma KNN merupakan algoritma yang tergolong pada _Lazy Learning_. Jika pada
 Dari gambar diatas dapat dilihat bahwa _Euclidean Distance_ merupakan jarak antara dua titik. Jika anda pernah belajar tentang _Pythagoras_ maka anda akan mengerti bahwa _Euclidean Distance_ merupakan jarak antara dua titik yang dapat dihitung dengan rumus _Pythagoras_. Rumus _Pythagoras_ dapat dilihat pada gambar berikut:
 
 $$
+
 C = \sqrt{A^2 + B^2}
+
 $$
 
 Dan rumus _Euclidean Distance_ dapat dilihat pada rumus berikut:
 
 $$
+
 d(p,q) = \sqrt{(q_1 - p_1)^2 + (q_2 - p_2)^2 + ... + (q_n - p_n)^2}
+
 $$
 
 Dalam kemiringan rumus _Euclidean Distance_ terdapat variabel $p$ dan $q$. Variabel $p$ merupakan data test dan variabel $q$ merupakan data train. Variabel $n$ merupakan jumlah **_fitur_** yang ada pada data.
