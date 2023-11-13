@@ -8,7 +8,9 @@ Dari gambar diatas dapat dilihat bahwa _Euclidean Distance_ merupakan jarak anta
 $$
 C = \sqrt{A^2 + B^2}
 $$
+
 Dan rumus _Euclidean Distance_ dapat dilihat pada rumus berikut:
+
 $$
 d(p,q) = \sqrt{(q_1 - p_1)^2 + (q_2 - p_2)^2 + ... + (q_n - p_n)^2}
 $$
